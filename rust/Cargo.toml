@@ -1,0 +1,26 @@
+[package]
+name = "pyferrite-check"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Reads every file written by validation.ipynb with pyferrite, checks it against the manifest and redraws the reference figure in Rust."
+license = "MIT"
+authors = [
+    "Andrey Ferubko <ferubko1999@yandex.ru>",
+    "Oleg Kazakov <kazakov@bgitu.ru>",
+]
+publish = false
+
+[dependencies]
+# The published crate, exactly as a reader of the article would get it.
+pyferrite = "0.0.2"
+plotters = { version = "0.3.7", default-features = false, features = [
+    "bitmap_backend", "svg_backend", "ab_glyph",
+] }
+png = "0.17"
+tiff = "0.9"
+serde_json = { version = "1", features = ["float_roundtrip"] }
+
+[profile.release]
+opt-level = 3
+

@@ -1,0 +1,1561 @@
+{
+  "by_extension": {
+    "h5": {
+      "checks_passed": 25,
+      "files": 5
+    },
+    "joblib": {
+      "checks_passed": 71,
+      "files": 9
+    },
+    "npy": {
+      "checks_passed": 9,
+      "files": 9
+    },
+    "npz": {
+      "checks_passed": 32,
+      "files": 6
+    },
+    "pkl": {
+      "checks_passed": 102,
+      "files": 10
+    },
+    "pt": {
+      "checks_passed": 62,
+      "files": 7
+    }
+  },
+  "checks_failed": 0,
+  "checks_passed": 301,
+  "details": [
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.npz",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.npz_c.npz",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.pkl",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.pkl2.pkl",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.joblib",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.joblib_z.joblib",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.pt",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series.h5",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "series_sin.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series_frame.pkl",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "t"
+        },
+        {
+          "ok": true,
+          "path": "sin"
+        },
+        {
+          "ok": true,
+          "path": "parabola"
+        }
+      ],
+      "failed": 0,
+      "file": "series_frame.joblib",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        },
+        {
+          "ok": true,
+          "path": "classes"
+        },
+        {
+          "ok": true,
+          "path": "n_neighbors"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_params.pkl",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        },
+        {
+          "ok": true,
+          "path": "classes"
+        },
+        {
+          "ok": true,
+          "path": "n_neighbors"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_params.joblib",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        },
+        {
+          "ok": true,
+          "path": "classes"
+        },
+        {
+          "ok": true,
+          "path": "n_neighbors"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_params.joblib_z.joblib",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        },
+        {
+          "ok": true,
+          "path": "classes"
+        },
+        {
+          "ok": true,
+          "path": "n_neighbors"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_params.pt",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        },
+        {
+          "ok": true,
+          "path": "classes"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_arrays.npz",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "X"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_arrays_h5.h5",
+      "passed": 2
+    },
+    {
+      "checks": [
+        {
+          "got": "sklearn.neighbors._classification.KNeighborsClassifier",
+          "ok": true,
+          "path": "(class captured, not run)"
+        },
+        {
+          "ok": true,
+          "path": "_fit_X"
+        },
+        {
+          "ok": true,
+          "path": "_y"
+        }
+      ],
+      "failed": 0,
+      "file": "knn_estimator.joblib",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "field"
+        },
+        {
+          "ok": true,
+          "path": "x"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "field.pt",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "field"
+        },
+        {
+          "ok": true,
+          "path": "x"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "field.npz",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "field"
+        },
+        {
+          "ok": true,
+          "path": "x"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "field.h5",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "field"
+        },
+        {
+          "ok": true,
+          "path": "x"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "field.pkl",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "field"
+        },
+        {
+          "ok": true,
+          "path": "x"
+        },
+        {
+          "ok": true,
+          "path": "y"
+        }
+      ],
+      "failed": 0,
+      "file": "field.joblib",
+      "passed": 3
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "0.weight"
+        },
+        {
+          "ok": true,
+          "path": "0.bias"
+        },
+        {
+          "ok": true,
+          "path": "2.weight"
+        },
+        {
+          "ok": true,
+          "path": "2.bias"
+        }
+      ],
+      "failed": 0,
+      "file": "torch_mlp.pt",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "hidden/kernel"
+        },
+        {
+          "ok": true,
+          "path": "hidden/bias"
+        },
+        {
+          "ok": true,
+          "path": "out/kernel"
+        },
+        {
+          "ok": true,
+          "path": "out/bias"
+        }
+      ],
+      "failed": 0,
+      "file": "tf_dense.npz",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "hidden/kernel"
+        },
+        {
+          "ok": true,
+          "path": "hidden/bias"
+        },
+        {
+          "ok": true,
+          "path": "out/kernel"
+        },
+        {
+          "ok": true,
+          "path": "out/bias"
+        }
+      ],
+      "failed": 0,
+      "file": "tf_dense.h5",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "hidden/kernel"
+        },
+        {
+          "ok": true,
+          "path": "hidden/bias"
+        },
+        {
+          "ok": true,
+          "path": "out/kernel"
+        },
+        {
+          "ok": true,
+          "path": "out/bias"
+        }
+      ],
+      "failed": 0,
+      "file": "tf_dense.pkl",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "hidden/kernel"
+        },
+        {
+          "ok": true,
+          "path": "hidden/bias"
+        },
+        {
+          "ok": true,
+          "path": "out/kernel"
+        },
+        {
+          "ok": true,
+          "path": "out/bias"
+        }
+      ],
+      "failed": 0,
+      "file": "tf_dense.pt",
+      "passed": 4
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "list"
+        },
+        {
+          "ok": true,
+          "path": "list[0]"
+        },
+        {
+          "ok": true,
+          "path": "list[1]"
+        },
+        {
+          "ok": true,
+          "path": "list[2]"
+        },
+        {
+          "ok": true,
+          "path": "list[3]"
+        },
+        {
+          "ok": true,
+          "path": "list[4]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[0]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[1]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[2]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[3]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[4]"
+        },
+        {
+          "ok": true,
+          "path": "tuple"
+        },
+        {
+          "ok": true,
+          "path": "tuple[0]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[1]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[2]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1][0]"
+        },
+        {
+          "ok": true,
+          "path": "set"
+        },
+        {
+          "ok": true,
+          "path": "str_unicode"
+        },
+        {
+          "ok": true,
+          "path": "bytes"
+        },
+        {
+          "ok": true,
+          "path": "int_big"
+        },
+        {
+          "ok": true,
+          "path": "int_neg"
+        },
+        {
+          "ok": true,
+          "path": "float"
+        },
+        {
+          "ok": true,
+          "path": "float_inf"
+        },
+        {
+          "ok": true,
+          "path": "complex"
+        },
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "none"
+        }
+      ],
+      "failed": 0,
+      "file": "plain.pkl",
+      "passed": 32
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "list"
+        },
+        {
+          "ok": true,
+          "path": "list[0]"
+        },
+        {
+          "ok": true,
+          "path": "list[1]"
+        },
+        {
+          "ok": true,
+          "path": "list[2]"
+        },
+        {
+          "ok": true,
+          "path": "list[3]"
+        },
+        {
+          "ok": true,
+          "path": "list[4]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[0]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[1]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[2]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[3]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[4]"
+        },
+        {
+          "ok": true,
+          "path": "tuple"
+        },
+        {
+          "ok": true,
+          "path": "tuple[0]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[1]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[2]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1][0]"
+        },
+        {
+          "ok": true,
+          "path": "set"
+        },
+        {
+          "ok": true,
+          "path": "str_unicode"
+        },
+        {
+          "ok": true,
+          "path": "bytes"
+        },
+        {
+          "ok": true,
+          "path": "int_big"
+        },
+        {
+          "ok": true,
+          "path": "int_neg"
+        },
+        {
+          "ok": true,
+          "path": "float"
+        },
+        {
+          "ok": true,
+          "path": "float_inf"
+        },
+        {
+          "ok": true,
+          "path": "complex"
+        },
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "none"
+        }
+      ],
+      "failed": 0,
+      "file": "plain.pkl2.pkl",
+      "passed": 32
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "list"
+        },
+        {
+          "ok": true,
+          "path": "list[0]"
+        },
+        {
+          "ok": true,
+          "path": "list[1]"
+        },
+        {
+          "ok": true,
+          "path": "list[2]"
+        },
+        {
+          "ok": true,
+          "path": "list[3]"
+        },
+        {
+          "ok": true,
+          "path": "list[4]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[0]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[1]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[2]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[3]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[4]"
+        },
+        {
+          "ok": true,
+          "path": "tuple"
+        },
+        {
+          "ok": true,
+          "path": "tuple[0]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[1]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[2]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1][0]"
+        },
+        {
+          "ok": true,
+          "path": "set"
+        },
+        {
+          "ok": true,
+          "path": "str_unicode"
+        },
+        {
+          "ok": true,
+          "path": "bytes"
+        },
+        {
+          "ok": true,
+          "path": "int_big"
+        },
+        {
+          "ok": true,
+          "path": "int_neg"
+        },
+        {
+          "ok": true,
+          "path": "float"
+        },
+        {
+          "ok": true,
+          "path": "float_inf"
+        },
+        {
+          "ok": true,
+          "path": "complex"
+        },
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "none"
+        }
+      ],
+      "failed": 0,
+      "file": "plain.joblib",
+      "passed": 32
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "list"
+        },
+        {
+          "ok": true,
+          "path": "list[0]"
+        },
+        {
+          "ok": true,
+          "path": "list[1]"
+        },
+        {
+          "ok": true,
+          "path": "list[2]"
+        },
+        {
+          "ok": true,
+          "path": "list[3]"
+        },
+        {
+          "ok": true,
+          "path": "list[4]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[0]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[1]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[2]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[3]"
+        },
+        {
+          "ok": true,
+          "path": "list_mixed[4]"
+        },
+        {
+          "ok": true,
+          "path": "tuple"
+        },
+        {
+          "ok": true,
+          "path": "tuple[0]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[1]"
+        },
+        {
+          "ok": true,
+          "path": "tuple[2]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][0]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1]"
+        },
+        {
+          "ok": true,
+          "path": "nested/a/b/c[1][1][0]"
+        },
+        {
+          "ok": true,
+          "path": "set"
+        },
+        {
+          "ok": true,
+          "path": "str_unicode"
+        },
+        {
+          "ok": true,
+          "path": "bytes"
+        },
+        {
+          "ok": true,
+          "path": "int_big"
+        },
+        {
+          "ok": true,
+          "path": "int_neg"
+        },
+        {
+          "ok": true,
+          "path": "float"
+        },
+        {
+          "ok": true,
+          "path": "float_inf"
+        },
+        {
+          "ok": true,
+          "path": "complex"
+        },
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "none"
+        }
+      ],
+      "failed": 0,
+      "file": "plain.pt",
+      "passed": 32
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "int8"
+        },
+        {
+          "ok": true,
+          "path": "uint8"
+        },
+        {
+          "ok": true,
+          "path": "int16"
+        },
+        {
+          "ok": true,
+          "path": "uint16"
+        },
+        {
+          "ok": true,
+          "path": "int32"
+        },
+        {
+          "ok": true,
+          "path": "uint32"
+        },
+        {
+          "ok": true,
+          "path": "int64"
+        },
+        {
+          "ok": true,
+          "path": "uint64"
+        },
+        {
+          "ok": true,
+          "path": "float16"
+        },
+        {
+          "ok": true,
+          "path": "float32"
+        },
+        {
+          "ok": true,
+          "path": "float64"
+        },
+        {
+          "ok": true,
+          "path": "complex64"
+        },
+        {
+          "ok": true,
+          "path": "complex128"
+        },
+        {
+          "ok": true,
+          "path": "unicode"
+        },
+        {
+          "ok": true,
+          "path": "scalar_0d"
+        }
+      ],
+      "failed": 0,
+      "file": "zoo.npz",
+      "passed": 16
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "int8"
+        },
+        {
+          "ok": true,
+          "path": "uint8"
+        },
+        {
+          "ok": true,
+          "path": "int16"
+        },
+        {
+          "ok": true,
+          "path": "uint16"
+        },
+        {
+          "ok": true,
+          "path": "int32"
+        },
+        {
+          "ok": true,
+          "path": "uint32"
+        },
+        {
+          "ok": true,
+          "path": "int64"
+        },
+        {
+          "ok": true,
+          "path": "uint64"
+        },
+        {
+          "ok": true,
+          "path": "float16"
+        },
+        {
+          "ok": true,
+          "path": "float32"
+        },
+        {
+          "ok": true,
+          "path": "float64"
+        },
+        {
+          "ok": true,
+          "path": "complex64"
+        },
+        {
+          "ok": true,
+          "path": "complex128"
+        },
+        {
+          "ok": true,
+          "path": "unicode"
+        },
+        {
+          "ok": true,
+          "path": "scalar_0d"
+        }
+      ],
+      "failed": 0,
+      "file": "zoo.pkl",
+      "passed": 16
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "int8"
+        },
+        {
+          "ok": true,
+          "path": "uint8"
+        },
+        {
+          "ok": true,
+          "path": "int16"
+        },
+        {
+          "ok": true,
+          "path": "uint16"
+        },
+        {
+          "ok": true,
+          "path": "int32"
+        },
+        {
+          "ok": true,
+          "path": "uint32"
+        },
+        {
+          "ok": true,
+          "path": "int64"
+        },
+        {
+          "ok": true,
+          "path": "uint64"
+        },
+        {
+          "ok": true,
+          "path": "float16"
+        },
+        {
+          "ok": true,
+          "path": "float32"
+        },
+        {
+          "ok": true,
+          "path": "float64"
+        },
+        {
+          "ok": true,
+          "path": "complex64"
+        },
+        {
+          "ok": true,
+          "path": "complex128"
+        },
+        {
+          "ok": true,
+          "path": "unicode"
+        },
+        {
+          "ok": true,
+          "path": "scalar_0d"
+        }
+      ],
+      "failed": 0,
+      "file": "zoo.joblib",
+      "passed": 16
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "int8"
+        },
+        {
+          "ok": true,
+          "path": "uint8"
+        },
+        {
+          "ok": true,
+          "path": "int16"
+        },
+        {
+          "ok": true,
+          "path": "uint16"
+        },
+        {
+          "ok": true,
+          "path": "int32"
+        },
+        {
+          "ok": true,
+          "path": "uint32"
+        },
+        {
+          "ok": true,
+          "path": "int64"
+        },
+        {
+          "ok": true,
+          "path": "uint64"
+        },
+        {
+          "ok": true,
+          "path": "float16"
+        },
+        {
+          "ok": true,
+          "path": "float32"
+        },
+        {
+          "ok": true,
+          "path": "float64"
+        },
+        {
+          "ok": true,
+          "path": "scalar_0d"
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_h5.h5",
+      "passed": 13
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "bool"
+        },
+        {
+          "ok": true,
+          "path": "int8"
+        },
+        {
+          "ok": true,
+          "path": "uint8"
+        },
+        {
+          "ok": true,
+          "path": "int16"
+        },
+        {
+          "ok": true,
+          "path": "int32"
+        },
+        {
+          "ok": true,
+          "path": "int64"
+        },
+        {
+          "ok": true,
+          "path": "float16"
+        },
+        {
+          "ok": true,
+          "path": "float32"
+        },
+        {
+          "ok": true,
+          "path": "float64"
+        },
+        {
+          "ok": true,
+          "path": "complex64"
+        },
+        {
+          "ok": true,
+          "path": "complex128"
+        },
+        {
+          "ok": true,
+          "path": "scalar_0d"
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_torch.pt",
+      "passed": 12
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_int32.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_float16.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_float64.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_complex128.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "zoo_unicode.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "layout_fortran.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "layout_bigendian.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": ""
+        }
+      ],
+      "failed": 0,
+      "file": "layout_3d.npy",
+      "passed": 1
+    },
+    {
+      "checks": [
+        {
+          "ok": true,
+          "path": "(default read refuses os.system)"
+        },
+        {
+          "ok": true,
+          "path": "(permissive read keeps the call as data)"
+        }
+      ],
+      "failed": 0,
+      "file": "poisoned.pkl",
+      "passed": 2
+    }
+  ],
+  "files": 46,
+  "pyferrite": "0.0.2 (crates.io)"
+}

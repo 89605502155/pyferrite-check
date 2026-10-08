@@ -1,0 +1,2774 @@
+[
+ {
+  "file": "series.npz",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.npz_c.npz",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.pkl",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.pkl2.pkl",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.joblib",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.joblib_z.joblib",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.pt",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series.h5",
+  "structure": "series",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series_sin.npy",
+  "structure": "series_sin",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   }
+  ]
+ },
+ {
+  "file": "series_frame.pkl",
+  "structure": "series_frame",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "series_frame.joblib",
+  "structure": "series_frame",
+  "entries": [
+   {
+    "path": "t",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": 4950.0,
+    "first": 0.0,
+    "last": 99.0
+   },
+   {
+    "path": "sin",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -4.6629367034256575e-15,
+    "first": 0.0,
+    "last": -0.125333233564304
+   },
+   {
+    "path": "parabola",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     100
+    ],
+    "sum": -31.986531986531993,
+    "first": 1.0,
+    "last": 1.0
+   }
+  ]
+ },
+ {
+  "file": "knn_params.pkl",
+  "structure": "knn_params",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   },
+   {
+    "path": "classes",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "setosa"
+   },
+   {
+    "path": "n_neighbors",
+    "kind": "int",
+    "value": "5"
+   }
+  ]
+ },
+ {
+  "file": "knn_params.joblib",
+  "structure": "knn_params",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   },
+   {
+    "path": "classes",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "setosa"
+   },
+   {
+    "path": "n_neighbors",
+    "kind": "int",
+    "value": "5"
+   }
+  ]
+ },
+ {
+  "file": "knn_params.joblib_z.joblib",
+  "structure": "knn_params",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   },
+   {
+    "path": "classes",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "setosa"
+   },
+   {
+    "path": "n_neighbors",
+    "kind": "int",
+    "value": "5"
+   }
+  ]
+ },
+ {
+  "file": "knn_params.pt",
+  "structure": "knn_params",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   },
+   {
+    "path": "classes",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "setosa"
+   },
+   {
+    "path": "n_neighbors",
+    "kind": "int",
+    "value": "5"
+   }
+  ]
+ },
+ {
+  "file": "knn_arrays.npz",
+  "structure": "knn_arrays",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   },
+   {
+    "path": "classes",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "setosa"
+   }
+  ]
+ },
+ {
+  "file": "knn_arrays_h5.h5",
+  "structure": "knn_arrays_h5",
+  "entries": [
+   {
+    "path": "X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   }
+  ]
+ },
+ {
+  "file": "knn_estimator.joblib",
+  "structure": "knn_estimator",
+  "object": "sklearn.neighbors._classification.KNeighborsClassifier",
+  "entries": [
+   {
+    "path": "_fit_X",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     150,
+     2
+    ],
+    "sum": 1.1368683772161603e-13,
+    "first": -2.264702808807587,
+    "last": -0.02433166816939972
+   },
+   {
+    "path": "_y",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     150
+    ],
+    "sum": 150.0,
+    "first": 0.0,
+    "last": 2.0
+   }
+  ]
+ },
+ {
+  "file": "field.pt",
+  "structure": "field",
+  "entries": [
+   {
+    "path": "field",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61,
+     61
+    ],
+    "sum": 423.51301008673147,
+    "first": 1.388795762419237e-11,
+    "last": 2.260329438286135e-06
+   },
+   {
+    "path": "x",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   }
+  ]
+ },
+ {
+  "file": "field.npz",
+  "structure": "field",
+  "entries": [
+   {
+    "path": "field",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61,
+     61
+    ],
+    "sum": 423.51301008673147,
+    "first": 1.388795762419237e-11,
+    "last": 2.260329438286135e-06
+   },
+   {
+    "path": "x",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   }
+  ]
+ },
+ {
+  "file": "field.h5",
+  "structure": "field",
+  "entries": [
+   {
+    "path": "field",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61,
+     61
+    ],
+    "sum": 423.51301008673147,
+    "first": 1.388795762419237e-11,
+    "last": 2.260329438286135e-06
+   },
+   {
+    "path": "x",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   }
+  ]
+ },
+ {
+  "file": "field.pkl",
+  "structure": "field",
+  "entries": [
+   {
+    "path": "field",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61,
+     61
+    ],
+    "sum": 423.51301008673147,
+    "first": 1.388795762419237e-11,
+    "last": 2.260329438286135e-06
+   },
+   {
+    "path": "x",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   }
+  ]
+ },
+ {
+  "file": "field.joblib",
+  "structure": "field",
+  "entries": [
+   {
+    "path": "field",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61,
+     61
+    ],
+    "sum": 423.51301008673147,
+    "first": 1.388795762419237e-11,
+    "last": 2.260329438286135e-06
+   },
+   {
+    "path": "x",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   },
+   {
+    "path": "y",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     61
+    ],
+    "sum": 0.0,
+    "first": -3.0,
+    "last": 3.0
+   }
+  ]
+ },
+ {
+  "file": "torch_mlp.pt",
+  "structure": "torch_mlp",
+  "entries": [
+   {
+    "path": "0.weight",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16,
+     4
+    ],
+    "sum": -1.903267741203308,
+    "first": -0.003743410110473633,
+    "last": 0.1510535478591919
+   },
+   {
+    "path": "0.bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16
+    ],
+    "sum": 1.4530303478240967,
+    "first": 0.2744860053062439,
+    "last": -0.31280267238616943
+   },
+   {
+    "path": "2.weight",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     3,
+     16
+    ],
+    "sum": -1.0591266751289368,
+    "first": -0.23298853635787964,
+    "last": -0.12177833914756775
+   },
+   {
+    "path": "2.bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     3
+    ],
+    "sum": -0.3455425500869751,
+    "first": -0.08745834231376648,
+    "last": -0.05317878723144531
+   }
+  ]
+ },
+ {
+  "file": "tf_dense.npz",
+  "structure": "tf_dense",
+  "entries": [
+   {
+    "path": "hidden/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1,
+     16
+    ],
+    "sum": 1.3405914101749659,
+    "first": -0.41756388545036316,
+    "last": 0.1933225691318512
+   },
+   {
+    "path": "hidden/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16
+    ],
+    "sum": -0.06747440993785858,
+    "first": 0.051437973976135254,
+    "last": 0.03032730706036091
+   },
+   {
+    "path": "out/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16,
+     1
+    ],
+    "sum": -0.7121417671442032,
+    "first": 0.2895438075065613,
+    "last": 0.15238331258296967
+   },
+   {
+    "path": "out/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1
+    ],
+    "sum": 0.03236747533082962,
+    "first": 0.03236747533082962,
+    "last": 0.03236747533082962
+   }
+  ]
+ },
+ {
+  "file": "tf_dense.h5",
+  "structure": "tf_dense",
+  "entries": [
+   {
+    "path": "hidden/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1,
+     16
+    ],
+    "sum": 1.3405914101749659,
+    "first": -0.41756388545036316,
+    "last": 0.1933225691318512
+   },
+   {
+    "path": "hidden/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16
+    ],
+    "sum": -0.06747440993785858,
+    "first": 0.051437973976135254,
+    "last": 0.03032730706036091
+   },
+   {
+    "path": "out/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16,
+     1
+    ],
+    "sum": -0.7121417671442032,
+    "first": 0.2895438075065613,
+    "last": 0.15238331258296967
+   },
+   {
+    "path": "out/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1
+    ],
+    "sum": 0.03236747533082962,
+    "first": 0.03236747533082962,
+    "last": 0.03236747533082962
+   }
+  ]
+ },
+ {
+  "file": "tf_dense.pkl",
+  "structure": "tf_dense",
+  "entries": [
+   {
+    "path": "hidden/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1,
+     16
+    ],
+    "sum": 1.3405914101749659,
+    "first": -0.41756388545036316,
+    "last": 0.1933225691318512
+   },
+   {
+    "path": "hidden/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16
+    ],
+    "sum": -0.06747440993785858,
+    "first": 0.051437973976135254,
+    "last": 0.03032730706036091
+   },
+   {
+    "path": "out/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16,
+     1
+    ],
+    "sum": -0.7121417671442032,
+    "first": 0.2895438075065613,
+    "last": 0.15238331258296967
+   },
+   {
+    "path": "out/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1
+    ],
+    "sum": 0.03236747533082962,
+    "first": 0.03236747533082962,
+    "last": 0.03236747533082962
+   }
+  ]
+ },
+ {
+  "file": "tf_dense.pt",
+  "structure": "tf_dense",
+  "entries": [
+   {
+    "path": "hidden/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1,
+     16
+    ],
+    "sum": 1.3405914101749659,
+    "first": -0.41756388545036316,
+    "last": 0.1933225691318512
+   },
+   {
+    "path": "hidden/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16
+    ],
+    "sum": -0.06747440993785858,
+    "first": 0.051437973976135254,
+    "last": 0.03032730706036091
+   },
+   {
+    "path": "out/kernel",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     16,
+     1
+    ],
+    "sum": -0.7121417671442032,
+    "first": 0.2895438075065613,
+    "last": 0.15238331258296967
+   },
+   {
+    "path": "out/bias",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     1
+    ],
+    "sum": 0.03236747533082962,
+    "first": 0.03236747533082962,
+    "last": 0.03236747533082962
+   }
+  ]
+ },
+ {
+  "file": "plain.pkl",
+  "structure": "plain",
+  "entries": [
+   {
+    "path": "list",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list[1]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "list[2]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "list[3]",
+    "kind": "int",
+    "value": "4"
+   },
+   {
+    "path": "list[4]",
+    "kind": "int",
+    "value": "5"
+   },
+   {
+    "path": "list_mixed",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list_mixed[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list_mixed[1]",
+    "kind": "str",
+    "value": "two"
+   },
+   {
+    "path": "list_mixed[2]",
+    "kind": "float",
+    "value": "3.0"
+   },
+   {
+    "path": "list_mixed[3]",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "list_mixed[4]",
+    "kind": "none"
+   },
+   {
+    "path": "tuple",
+    "kind": "tuple",
+    "len": 3
+   },
+   {
+    "path": "tuple[0]",
+    "kind": "float",
+    "value": "1.5"
+   },
+   {
+    "path": "tuple[1]",
+    "kind": "str",
+    "value": "pi"
+   },
+   {
+    "path": "tuple[2]",
+    "kind": "bool",
+    "value": false
+   },
+   {
+    "path": "nested/a/b/c",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "nested/a/b/c[1]",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[1][0]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "nested/a/b/c[1][1]",
+    "kind": "list",
+    "len": 1
+   },
+   {
+    "path": "nested/a/b/c[1][1][0]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "set",
+    "kind": "set",
+    "items": [
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   {
+    "path": "str_unicode",
+    "kind": "str",
+    "value": "Привет, pyferrite! ∑ λ ∞"
+   },
+   {
+    "path": "bytes",
+    "kind": "bytes",
+    "hex": "0001020304050607"
+   },
+   {
+    "path": "int_big",
+    "kind": "int",
+    "value": "1267650600228229401496703205383"
+   },
+   {
+    "path": "int_neg",
+    "kind": "int",
+    "value": "-9007199254740993"
+   },
+   {
+    "path": "float",
+    "kind": "float",
+    "value": "0.30000000000000004"
+   },
+   {
+    "path": "float_inf",
+    "kind": "float",
+    "value": "inf"
+   },
+   {
+    "path": "complex",
+    "kind": "complex",
+    "re": 1.5,
+    "im": -2.25
+   },
+   {
+    "path": "bool",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "none",
+    "kind": "none"
+   }
+  ]
+ },
+ {
+  "file": "plain.pkl2.pkl",
+  "structure": "plain",
+  "entries": [
+   {
+    "path": "list",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list[1]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "list[2]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "list[3]",
+    "kind": "int",
+    "value": "4"
+   },
+   {
+    "path": "list[4]",
+    "kind": "int",
+    "value": "5"
+   },
+   {
+    "path": "list_mixed",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list_mixed[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list_mixed[1]",
+    "kind": "str",
+    "value": "two"
+   },
+   {
+    "path": "list_mixed[2]",
+    "kind": "float",
+    "value": "3.0"
+   },
+   {
+    "path": "list_mixed[3]",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "list_mixed[4]",
+    "kind": "none"
+   },
+   {
+    "path": "tuple",
+    "kind": "tuple",
+    "len": 3
+   },
+   {
+    "path": "tuple[0]",
+    "kind": "float",
+    "value": "1.5"
+   },
+   {
+    "path": "tuple[1]",
+    "kind": "str",
+    "value": "pi"
+   },
+   {
+    "path": "tuple[2]",
+    "kind": "bool",
+    "value": false
+   },
+   {
+    "path": "nested/a/b/c",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "nested/a/b/c[1]",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[1][0]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "nested/a/b/c[1][1]",
+    "kind": "list",
+    "len": 1
+   },
+   {
+    "path": "nested/a/b/c[1][1][0]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "set",
+    "kind": "set",
+    "items": [
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   {
+    "path": "str_unicode",
+    "kind": "str",
+    "value": "Привет, pyferrite! ∑ λ ∞"
+   },
+   {
+    "path": "bytes",
+    "kind": "bytes",
+    "hex": "0001020304050607"
+   },
+   {
+    "path": "int_big",
+    "kind": "int",
+    "value": "1267650600228229401496703205383"
+   },
+   {
+    "path": "int_neg",
+    "kind": "int",
+    "value": "-9007199254740993"
+   },
+   {
+    "path": "float",
+    "kind": "float",
+    "value": "0.30000000000000004"
+   },
+   {
+    "path": "float_inf",
+    "kind": "float",
+    "value": "inf"
+   },
+   {
+    "path": "complex",
+    "kind": "complex",
+    "re": 1.5,
+    "im": -2.25
+   },
+   {
+    "path": "bool",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "none",
+    "kind": "none"
+   }
+  ]
+ },
+ {
+  "file": "plain.joblib",
+  "structure": "plain",
+  "entries": [
+   {
+    "path": "list",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list[1]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "list[2]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "list[3]",
+    "kind": "int",
+    "value": "4"
+   },
+   {
+    "path": "list[4]",
+    "kind": "int",
+    "value": "5"
+   },
+   {
+    "path": "list_mixed",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list_mixed[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list_mixed[1]",
+    "kind": "str",
+    "value": "two"
+   },
+   {
+    "path": "list_mixed[2]",
+    "kind": "float",
+    "value": "3.0"
+   },
+   {
+    "path": "list_mixed[3]",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "list_mixed[4]",
+    "kind": "none"
+   },
+   {
+    "path": "tuple",
+    "kind": "tuple",
+    "len": 3
+   },
+   {
+    "path": "tuple[0]",
+    "kind": "float",
+    "value": "1.5"
+   },
+   {
+    "path": "tuple[1]",
+    "kind": "str",
+    "value": "pi"
+   },
+   {
+    "path": "tuple[2]",
+    "kind": "bool",
+    "value": false
+   },
+   {
+    "path": "nested/a/b/c",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "nested/a/b/c[1]",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[1][0]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "nested/a/b/c[1][1]",
+    "kind": "list",
+    "len": 1
+   },
+   {
+    "path": "nested/a/b/c[1][1][0]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "set",
+    "kind": "set",
+    "items": [
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   {
+    "path": "str_unicode",
+    "kind": "str",
+    "value": "Привет, pyferrite! ∑ λ ∞"
+   },
+   {
+    "path": "bytes",
+    "kind": "bytes",
+    "hex": "0001020304050607"
+   },
+   {
+    "path": "int_big",
+    "kind": "int",
+    "value": "1267650600228229401496703205383"
+   },
+   {
+    "path": "int_neg",
+    "kind": "int",
+    "value": "-9007199254740993"
+   },
+   {
+    "path": "float",
+    "kind": "float",
+    "value": "0.30000000000000004"
+   },
+   {
+    "path": "float_inf",
+    "kind": "float",
+    "value": "inf"
+   },
+   {
+    "path": "complex",
+    "kind": "complex",
+    "re": 1.5,
+    "im": -2.25
+   },
+   {
+    "path": "bool",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "none",
+    "kind": "none"
+   }
+  ]
+ },
+ {
+  "file": "plain.pt",
+  "structure": "plain",
+  "entries": [
+   {
+    "path": "list",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list[1]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "list[2]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "list[3]",
+    "kind": "int",
+    "value": "4"
+   },
+   {
+    "path": "list[4]",
+    "kind": "int",
+    "value": "5"
+   },
+   {
+    "path": "list_mixed",
+    "kind": "list",
+    "len": 5
+   },
+   {
+    "path": "list_mixed[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "list_mixed[1]",
+    "kind": "str",
+    "value": "two"
+   },
+   {
+    "path": "list_mixed[2]",
+    "kind": "float",
+    "value": "3.0"
+   },
+   {
+    "path": "list_mixed[3]",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "list_mixed[4]",
+    "kind": "none"
+   },
+   {
+    "path": "tuple",
+    "kind": "tuple",
+    "len": 3
+   },
+   {
+    "path": "tuple[0]",
+    "kind": "float",
+    "value": "1.5"
+   },
+   {
+    "path": "tuple[1]",
+    "kind": "str",
+    "value": "pi"
+   },
+   {
+    "path": "tuple[2]",
+    "kind": "bool",
+    "value": false
+   },
+   {
+    "path": "nested/a/b/c",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[0]",
+    "kind": "int",
+    "value": "1"
+   },
+   {
+    "path": "nested/a/b/c[1]",
+    "kind": "list",
+    "len": 2
+   },
+   {
+    "path": "nested/a/b/c[1][0]",
+    "kind": "int",
+    "value": "2"
+   },
+   {
+    "path": "nested/a/b/c[1][1]",
+    "kind": "list",
+    "len": 1
+   },
+   {
+    "path": "nested/a/b/c[1][1][0]",
+    "kind": "int",
+    "value": "3"
+   },
+   {
+    "path": "set",
+    "kind": "set",
+    "items": [
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   {
+    "path": "str_unicode",
+    "kind": "str",
+    "value": "Привет, pyferrite! ∑ λ ∞"
+   },
+   {
+    "path": "bytes",
+    "kind": "bytes",
+    "hex": "0001020304050607"
+   },
+   {
+    "path": "int_big",
+    "kind": "int",
+    "value": "1267650600228229401496703205383"
+   },
+   {
+    "path": "int_neg",
+    "kind": "int",
+    "value": "-9007199254740993"
+   },
+   {
+    "path": "float",
+    "kind": "float",
+    "value": "0.30000000000000004"
+   },
+   {
+    "path": "float_inf",
+    "kind": "float",
+    "value": "inf"
+   },
+   {
+    "path": "complex",
+    "kind": "complex",
+    "re": 1.5,
+    "im": -2.25
+   },
+   {
+    "path": "bool",
+    "kind": "bool",
+    "value": true
+   },
+   {
+    "path": "none",
+    "kind": "none"
+   }
+  ]
+ },
+ {
+  "file": "zoo.npz",
+  "structure": "zoo",
+  "entries": [
+   {
+    "path": "bool",
+    "kind": "array",
+    "dtype": "bool",
+    "shape": [
+     32
+    ],
+    "sum": 19.0,
+    "first": 1.0,
+    "last": 1.0
+   },
+   {
+    "path": "int8",
+    "kind": "array",
+    "dtype": "int8",
+    "shape": [
+     32
+    ],
+    "sum": -324.0,
+    "first": 39.0,
+    "last": 95.0
+   },
+   {
+    "path": "uint8",
+    "kind": "array",
+    "dtype": "uint8",
+    "shape": [
+     32
+    ],
+    "sum": 3933.0,
+    "first": 244.0,
+    "last": 48.0
+   },
+   {
+    "path": "int16",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     32
+    ],
+    "sum": 23780.0,
+    "first": -20699.0,
+    "last": -24394.0
+   },
+   {
+    "path": "uint16",
+    "kind": "array",
+    "dtype": "uint16",
+    "shape": [
+     32
+    ],
+    "sum": 1039401.0,
+    "first": 11353.0,
+    "last": 19351.0
+   },
+   {
+    "path": "int32",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   },
+   {
+    "path": "uint32",
+    "kind": "array",
+    "dtype": "uint32",
+    "shape": [
+     32
+    ],
+    "sum": 71042339672.0,
+    "first": 298505897.0,
+    "last": 1452355399.0
+   },
+   {
+    "path": "int64",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     32
+    ],
+    "sum": -1.1543687027899556e+18,
+    "first": 1.5549940102369994e+18,
+    "last": -1.3553889666165952e+18
+   },
+   {
+    "path": "uint64",
+    "kind": "array",
+    "dtype": "uint64",
+    "shape": [
+     32
+    ],
+    "sum": 1.3024504315349159e+20,
+    "first": 8.886578283750491e+18,
+    "last": 6.815700772470386e+17
+   },
+   {
+    "path": "float16",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   },
+   {
+    "path": "float32",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     4,
+     8
+    ],
+    "sum": -4.227003768086433,
+    "first": 0.4114564061164856,
+    "last": 1.5341516733169556
+   },
+   {
+    "path": "float64",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   },
+   {
+    "path": "complex64",
+    "kind": "array",
+    "dtype": "complex64",
+    "shape": [
+     16
+    ],
+    "sum": 2.6353449039161205
+   },
+   {
+    "path": "complex128",
+    "kind": "array",
+    "dtype": "complex128",
+    "shape": [
+     16
+    ],
+    "sum": -1.407702459555455
+   },
+   {
+    "path": "unicode",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "alpha"
+   },
+   {
+    "path": "scalar_0d",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [],
+    "sum": 3.25,
+    "first": 3.25,
+    "last": 3.25
+   }
+  ]
+ },
+ {
+  "file": "zoo.pkl",
+  "structure": "zoo",
+  "entries": [
+   {
+    "path": "bool",
+    "kind": "array",
+    "dtype": "bool",
+    "shape": [
+     32
+    ],
+    "sum": 19.0,
+    "first": 1.0,
+    "last": 1.0
+   },
+   {
+    "path": "int8",
+    "kind": "array",
+    "dtype": "int8",
+    "shape": [
+     32
+    ],
+    "sum": -324.0,
+    "first": 39.0,
+    "last": 95.0
+   },
+   {
+    "path": "uint8",
+    "kind": "array",
+    "dtype": "uint8",
+    "shape": [
+     32
+    ],
+    "sum": 3933.0,
+    "first": 244.0,
+    "last": 48.0
+   },
+   {
+    "path": "int16",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     32
+    ],
+    "sum": 23780.0,
+    "first": -20699.0,
+    "last": -24394.0
+   },
+   {
+    "path": "uint16",
+    "kind": "array",
+    "dtype": "uint16",
+    "shape": [
+     32
+    ],
+    "sum": 1039401.0,
+    "first": 11353.0,
+    "last": 19351.0
+   },
+   {
+    "path": "int32",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   },
+   {
+    "path": "uint32",
+    "kind": "array",
+    "dtype": "uint32",
+    "shape": [
+     32
+    ],
+    "sum": 71042339672.0,
+    "first": 298505897.0,
+    "last": 1452355399.0
+   },
+   {
+    "path": "int64",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     32
+    ],
+    "sum": -1.1543687027899556e+18,
+    "first": 1.5549940102369994e+18,
+    "last": -1.3553889666165952e+18
+   },
+   {
+    "path": "uint64",
+    "kind": "array",
+    "dtype": "uint64",
+    "shape": [
+     32
+    ],
+    "sum": 1.3024504315349159e+20,
+    "first": 8.886578283750491e+18,
+    "last": 6.815700772470386e+17
+   },
+   {
+    "path": "float16",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   },
+   {
+    "path": "float32",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     4,
+     8
+    ],
+    "sum": -4.227003768086433,
+    "first": 0.4114564061164856,
+    "last": 1.5341516733169556
+   },
+   {
+    "path": "float64",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   },
+   {
+    "path": "complex64",
+    "kind": "array",
+    "dtype": "complex64",
+    "shape": [
+     16
+    ],
+    "sum": 2.6353449039161205
+   },
+   {
+    "path": "complex128",
+    "kind": "array",
+    "dtype": "complex128",
+    "shape": [
+     16
+    ],
+    "sum": -1.407702459555455
+   },
+   {
+    "path": "unicode",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "alpha"
+   },
+   {
+    "path": "scalar_0d",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [],
+    "sum": 3.25,
+    "first": 3.25,
+    "last": 3.25
+   }
+  ]
+ },
+ {
+  "file": "zoo.joblib",
+  "structure": "zoo",
+  "entries": [
+   {
+    "path": "bool",
+    "kind": "array",
+    "dtype": "bool",
+    "shape": [
+     32
+    ],
+    "sum": 19.0,
+    "first": 1.0,
+    "last": 1.0
+   },
+   {
+    "path": "int8",
+    "kind": "array",
+    "dtype": "int8",
+    "shape": [
+     32
+    ],
+    "sum": -324.0,
+    "first": 39.0,
+    "last": 95.0
+   },
+   {
+    "path": "uint8",
+    "kind": "array",
+    "dtype": "uint8",
+    "shape": [
+     32
+    ],
+    "sum": 3933.0,
+    "first": 244.0,
+    "last": 48.0
+   },
+   {
+    "path": "int16",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     32
+    ],
+    "sum": 23780.0,
+    "first": -20699.0,
+    "last": -24394.0
+   },
+   {
+    "path": "uint16",
+    "kind": "array",
+    "dtype": "uint16",
+    "shape": [
+     32
+    ],
+    "sum": 1039401.0,
+    "first": 11353.0,
+    "last": 19351.0
+   },
+   {
+    "path": "int32",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   },
+   {
+    "path": "uint32",
+    "kind": "array",
+    "dtype": "uint32",
+    "shape": [
+     32
+    ],
+    "sum": 71042339672.0,
+    "first": 298505897.0,
+    "last": 1452355399.0
+   },
+   {
+    "path": "int64",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     32
+    ],
+    "sum": -1.1543687027899556e+18,
+    "first": 1.5549940102369994e+18,
+    "last": -1.3553889666165952e+18
+   },
+   {
+    "path": "uint64",
+    "kind": "array",
+    "dtype": "uint64",
+    "shape": [
+     32
+    ],
+    "sum": 1.3024504315349159e+20,
+    "first": 8.886578283750491e+18,
+    "last": 6.815700772470386e+17
+   },
+   {
+    "path": "float16",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   },
+   {
+    "path": "float32",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     4,
+     8
+    ],
+    "sum": -4.227003768086433,
+    "first": 0.4114564061164856,
+    "last": 1.5341516733169556
+   },
+   {
+    "path": "float64",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   },
+   {
+    "path": "complex64",
+    "kind": "array",
+    "dtype": "complex64",
+    "shape": [
+     16
+    ],
+    "sum": 2.6353449039161205
+   },
+   {
+    "path": "complex128",
+    "kind": "array",
+    "dtype": "complex128",
+    "shape": [
+     16
+    ],
+    "sum": -1.407702459555455
+   },
+   {
+    "path": "unicode",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "alpha"
+   },
+   {
+    "path": "scalar_0d",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [],
+    "sum": 3.25,
+    "first": 3.25,
+    "last": 3.25
+   }
+  ]
+ },
+ {
+  "file": "zoo_h5.h5",
+  "structure": "zoo_h5",
+  "entries": [
+   {
+    "path": "bool",
+    "kind": "array",
+    "dtype": "bool",
+    "shape": [
+     32
+    ],
+    "sum": 19.0,
+    "first": 1.0,
+    "last": 1.0
+   },
+   {
+    "path": "int8",
+    "kind": "array",
+    "dtype": "int8",
+    "shape": [
+     32
+    ],
+    "sum": -324.0,
+    "first": 39.0,
+    "last": 95.0
+   },
+   {
+    "path": "uint8",
+    "kind": "array",
+    "dtype": "uint8",
+    "shape": [
+     32
+    ],
+    "sum": 3933.0,
+    "first": 244.0,
+    "last": 48.0
+   },
+   {
+    "path": "int16",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     32
+    ],
+    "sum": 23780.0,
+    "first": -20699.0,
+    "last": -24394.0
+   },
+   {
+    "path": "uint16",
+    "kind": "array",
+    "dtype": "uint16",
+    "shape": [
+     32
+    ],
+    "sum": 1039401.0,
+    "first": 11353.0,
+    "last": 19351.0
+   },
+   {
+    "path": "int32",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   },
+   {
+    "path": "uint32",
+    "kind": "array",
+    "dtype": "uint32",
+    "shape": [
+     32
+    ],
+    "sum": 71042339672.0,
+    "first": 298505897.0,
+    "last": 1452355399.0
+   },
+   {
+    "path": "int64",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     32
+    ],
+    "sum": -1.1543687027899556e+18,
+    "first": 1.5549940102369994e+18,
+    "last": -1.3553889666165952e+18
+   },
+   {
+    "path": "uint64",
+    "kind": "array",
+    "dtype": "uint64",
+    "shape": [
+     32
+    ],
+    "sum": 1.3024504315349159e+20,
+    "first": 8.886578283750491e+18,
+    "last": 6.815700772470386e+17
+   },
+   {
+    "path": "float16",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   },
+   {
+    "path": "float32",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     4,
+     8
+    ],
+    "sum": -4.227003768086433,
+    "first": 0.4114564061164856,
+    "last": 1.5341516733169556
+   },
+   {
+    "path": "float64",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   },
+   {
+    "path": "scalar_0d",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [],
+    "sum": 3.25,
+    "first": 3.25,
+    "last": 3.25
+   }
+  ]
+ },
+ {
+  "file": "zoo_torch.pt",
+  "structure": "zoo_torch",
+  "entries": [
+   {
+    "path": "bool",
+    "kind": "array",
+    "dtype": "bool",
+    "shape": [
+     32
+    ],
+    "sum": 19.0,
+    "first": 1.0,
+    "last": 1.0
+   },
+   {
+    "path": "int8",
+    "kind": "array",
+    "dtype": "int8",
+    "shape": [
+     32
+    ],
+    "sum": -324.0,
+    "first": 39.0,
+    "last": 95.0
+   },
+   {
+    "path": "uint8",
+    "kind": "array",
+    "dtype": "uint8",
+    "shape": [
+     32
+    ],
+    "sum": 3933.0,
+    "first": 244.0,
+    "last": 48.0
+   },
+   {
+    "path": "int16",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     32
+    ],
+    "sum": 23780.0,
+    "first": -20699.0,
+    "last": -24394.0
+   },
+   {
+    "path": "int32",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   },
+   {
+    "path": "int64",
+    "kind": "array",
+    "dtype": "int64",
+    "shape": [
+     32
+    ],
+    "sum": -1.1543687027899556e+18,
+    "first": 1.5549940102369994e+18,
+    "last": -1.3553889666165952e+18
+   },
+   {
+    "path": "float16",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   },
+   {
+    "path": "float32",
+    "kind": "array",
+    "dtype": "float32",
+    "shape": [
+     4,
+     8
+    ],
+    "sum": -4.227003768086433,
+    "first": 0.4114564061164856,
+    "last": 1.5341516733169556
+   },
+   {
+    "path": "float64",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   },
+   {
+    "path": "complex64",
+    "kind": "array",
+    "dtype": "complex64",
+    "shape": [
+     16
+    ],
+    "sum": 2.6353449039161205
+   },
+   {
+    "path": "complex128",
+    "kind": "array",
+    "dtype": "complex128",
+    "shape": [
+     16
+    ],
+    "sum": -1.407702459555455
+   },
+   {
+    "path": "scalar_0d",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [],
+    "sum": 3.25,
+    "first": 3.25,
+    "last": 3.25
+   }
+  ]
+ },
+ {
+  "file": "zoo_int32.npy",
+  "structure": "zoo_int32",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "int32",
+    "shape": [
+     32
+    ],
+    "sum": -2423820756.0,
+    "first": 2058925220.0,
+    "last": 685507993.0
+   }
+  ]
+ },
+ {
+  "file": "zoo_float16.npy",
+  "structure": "zoo_float16",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "float16",
+    "shape": [
+     32
+    ],
+    "sum": 3.410308837890625,
+    "first": 1.3955078125,
+    "last": 0.166259765625
+   }
+  ]
+ },
+ {
+  "file": "zoo_float64.npy",
+  "structure": "zoo_float64",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     2,
+     4,
+     4
+    ],
+    "sum": 7.0359396738573725,
+    "first": 1.4779019986367137,
+    "last": 0.07764908350698212
+   }
+  ]
+ },
+ {
+  "file": "zoo_complex128.npy",
+  "structure": "zoo_complex128",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "complex128",
+    "shape": [
+     16
+    ],
+    "sum": -1.407702459555455
+   }
+  ]
+ },
+ {
+  "file": "zoo_unicode.npy",
+  "structure": "zoo_unicode",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "str",
+    "shape": [
+     3
+    ],
+    "first": "alpha"
+   }
+  ]
+ },
+ {
+  "file": "layout_fortran.npy",
+  "structure": "layout",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     3,
+     4
+    ],
+    "sum": 33.0,
+    "first": 0.0,
+    "last": 5.5
+   }
+  ]
+ },
+ {
+  "file": "layout_bigendian.npy",
+  "structure": "layout",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "float64",
+    "shape": [
+     3,
+     4
+    ],
+    "sum": 33.0,
+    "first": 0.0,
+    "last": 5.5
+   }
+  ]
+ },
+ {
+  "file": "layout_3d.npy",
+  "structure": "layout",
+  "entries": [
+   {
+    "path": "",
+    "kind": "array",
+    "dtype": "int16",
+    "shape": [
+     2,
+     3,
+     4
+    ],
+    "sum": 276.0,
+    "first": 0.0,
+    "last": 23.0
+   }
+  ]
+ },
+ {
+  "file": "poisoned.pkl",
+  "structure": "poisoned",
+  "must_refuse": true,
+  "entries": []
+ }
+]

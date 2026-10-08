@@ -1,0 +1,5 @@
+/rust/target/
+__pycache__/
+.ipynb_checkpoints/
+# 600 dpi TIFF copies are rebuilt by the notebook and `cargo run`
+/figures/*.tif
