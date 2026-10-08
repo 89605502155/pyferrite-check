@@ -1,6 +1,6 @@
 //! pyferrite-check: read every file written by `validation.ipynb` with the
 //! published pyferrite crate, check it against `data/manifest.json`, then draw
-//! the three reference panels in Rust (bottom row of Fig. 4 of the article).
+//! the three reference panels in Rust (bottom row of Fig. 3 of the article).
 //!
 //!     cargo run --release               # from the `rust/` directory
 //!     cargo run --release -- ../data ../figures
@@ -140,7 +140,7 @@ fn load_png_rgb(path: &Path) -> R<(Vec<u8>, u32, u32)> {
     Ok((rgb, info.width, info.height))
 }
 
-/// Fig. 4 of the article: the Python row drawn by the notebook on top, the
+/// Fig. 3 of the article: the Python row drawn by the notebook on top, the
 /// Rust row drawn here below it, so the two can be compared panel by panel.
 fn compose(figs: &Path, rust: &[u8], w: u32, h: u32) -> R<()> {
     let (top, tw, th) = load_png_rgb(&figs.join("python_panels.png"))?;

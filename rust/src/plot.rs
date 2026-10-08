@@ -1,5 +1,5 @@
 #![allow(clippy::too_many_arguments, clippy::type_complexity)]
-//! The bottom row of Fig. 4: the three reference panels redrawn in Rust with
+//! The bottom row of Fig. 3: the three reference panels redrawn in Rust with
 //! plotters, from the data pyferrite read back. Geometry, colours, limits and
 //! ticks follow `figures/style.json` and the matplotlib layout of the notebook.
 

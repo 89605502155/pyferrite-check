@@ -2,7 +2,7 @@
 
 The notebook generates reference Python data structures, writes each of them
 to every file format pyferrite supports that can hold it, records a manifest
-of what Rust must find, and draws the reference figure (top row of Fig. 4).
+of what Rust must find, and draws the reference figure (top row of Fig. 3).
 
     python make_notebook.py            # write validation.ipynb
     python make_notebook.py --execute  # write and run it in place
@@ -331,7 +331,7 @@ print(f"{len(files)} files, {sum(len(m['entries']) for m in MANIFEST)} manifest 
 print(by_ext)
 ''')
 
-md("## 4. Reference figure (top row of Fig. 4)")
+md("## 4. Reference figure (top row of Fig. 3)")
 
 code('''
 # Style shared with the Rust figure: the same sizes, colours and limits.
